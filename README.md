@@ -74,8 +74,6 @@ open_to    : Open Source Collaboration & UAV Projects
 
 ![Streak](https://streak-stats.demolab.com?user=ARYA-mgc&theme=github-dark-blue&border=30363d)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ARYA-mgc&theme=darkhub&no-frame=true&row=1)
-
 </div>
 
 ---
