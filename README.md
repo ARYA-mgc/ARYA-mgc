@@ -78,12 +78,6 @@ open_to    : Open Source Collaboration & UAV Projects
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ARYA-mgc&theme=github-dark-blue&border=30363d)
-
-</div>
-
 ---
 
 ## 🌐 Connect
