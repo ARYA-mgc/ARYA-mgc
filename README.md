@@ -43,10 +43,9 @@ open_to    : Open Source Collaboration & UAV Projects
 | Project | Description | Tech |
 |---|---|---|
 | [🚁 ins-drone-pixhawk](https://github.com/ARYA-mgc/ins-drone-pixhawk) | Real-time GPS-denied INS for UAVs — 9-state EKF on RPi4 | Python, MAVLink, ArduPilot |
-| [🛸 Swayam](https://github.com/ARYA-mgc/Swayam) | MAVLink multi-drone framework — INS, A* pathfinding, Flask | Python, SQLite, Flask |
+| [🛸 Swayam](https://github.com/ARYA-mgc/swayam_drone_communication-) | MAVLink multi-drone framework — INS, A* pathfinding, Flask | Python, SQLite, Flask |
 | [🔌 drone-can-network](https://github.com/ARYA-mgc/drone-can-network) | Dual-drone CAN communication framework for STM32 | C, STM32, CAN Bus |
-| [⚡ IoT Sensor Network](https://github.com/ARYA-mgc/iot-sensor-network) | Distributed industrial IoT — STM32 nodes, ESP32 gateway | C, Python, MQTT |
-
+| [🛰️ CubeSat ACS](https://github.com/ARYA-mgc/cubsat_Simulation_with_HIL) | CubeSat attitude control — cascaded PID, HIL validation, SDR + NRF24L01+ telemetry | MATLAB · Python · STM32 |
 ---
 
 ## 🔧 Tech Stack
