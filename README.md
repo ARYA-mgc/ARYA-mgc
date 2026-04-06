@@ -72,8 +72,9 @@ open_to    : Open Source Collaboration & UAV Projects
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARYA-mgc&show_icons=true&theme=github_dark&border_color=30363d&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYA-mgc&layout=compact&theme=github_dark&border_color=30363d"/>
+![Streak](https://streak-stats.demolab.com?user=ARYA-mgc&theme=github-dark-blue&border=30363d)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ARYA-mgc&theme=darkhub&no-frame=true&row=1)
 
 </div>
 
