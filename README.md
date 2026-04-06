@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=ARYA%20MGC&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Avionics%20%7C%20Guidance%20%26%20Control%20%7C%20UAV%20Systems&descAlignY=55&descColor=8b949e"/>
+# ARYA MGC
+### 🚀 Avionics | Guidance & Control | UAV Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Avionics+Engineer+%F0%9F%9A%80;Rocket+%E2%86%92+UAV+Systems;MAVLink+Open+Source+Contributor;GPS-Denied+INS+Navigation;Chennai+Institute+of+Technology" alt="Typing SVG" />
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Avionics+Engineer+%F0%9F%9A%80;Rocket+%E2%86%92+UAV+Systems;MAVLink+Open+Source+Contributor;GPS-Denied+INS+Navigation;Chennai+Institute+of+Technology)
 
 </div>
-
 ---
 
 ## 🚀 About Me
