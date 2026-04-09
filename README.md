@@ -127,5 +127,26 @@ open_to    : Open Source Collaboration & UAV Projects
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer"/>
+
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+
 </div>
