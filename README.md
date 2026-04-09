@@ -1,7 +1,7 @@
 <div align="center">
 
 # ARYA MGC
-### 🚀 Avionics | Guidance & Control | UAV Systems
+###  Avionics | Guidance & Control | UAV Systems
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Avionics+Engineer+%F0%9F%9A%80;Rocket+%E2%86%92+UAV+Systems;MAVLink+Open+Source+Contributor;GPS-Denied+INS+Navigation;Chennai+Institute+of+Technology)
 
