@@ -7,7 +7,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me:
 ```yaml
 name       : Arya MGC
 role       : Avionics & Guidance Control Engineer
@@ -22,33 +22,33 @@ open_to    : Open Source Collaboration & UAV Projects
 
 ---
 
-## 💼 Experience
+## Experience:
 
 <table>
 <tr>
-<td width="50px" align="center">🚀</td>
+<td width="50px" align="center">1.</td>
 <td><strong>Avionics / Guidance & Control Intern</strong><br><a href="https://agnikul.in">Agnikul Cosmos</a> — India's private rocket startup<br><sub>Worked on real rocket avionics systems. Bridging rocket-grade engineering into UAV open source.</sub></td>
 </tr>
 <tr>
-<td width="50px" align="center">⚡</td>
+<td width="50px" align="center">2.</td>
 <td><strong>Embedded Systems Intern</strong><br>NLC India Limited<br><sub>Industrial embedded systems and automation.</sub></td>
 </tr>
 </table>
 
 ---
 
-## 🛸 Featured Projects
+## Featured Projects:
 
 | Project | Description | Tech |
 |---|---|---|
-| [🚁 ins-drone-pixhawk](https://github.com/ARYA-mgc/ins-drone-pixhawk) | Real-time GPS-denied INS for UAVs — 9-state EKF on RPi4 | Python, MAVLink, ArduPilot |
-| [🛸 Swayam](https://github.com/ARYA-mgc/swayam_drone_communication-) | MAVLink multi-drone framework — INS, A* pathfinding, Flask | Python, SQLite, Flask |
-| [🔌 drone-can-network](https://github.com/ARYA-mgc/drone-can-network) | Dual-drone CAN communication framework for STM32 | C, STM32, CAN Bus |
-| [🛰️ CubeSat ACS](https://github.com/ARYA-mgc/cubsat_Simulation_with_HIL) | CubeSat attitude control — cascaded PID, HIL validation, SDR + NRF24L01+ telemetry | MATLAB · Python · STM32 |
+| [ins-drone-pixhawk](https://github.com/ARYA-mgc/ins-drone-pixhawk) | Real-time GPS-denied INS for UAVs — 9-state EKF on RPi4 | Python, MAVLink, ArduPilot |
+| [Swayam](https://github.com/ARYA-mgc/swayam_drone_communication-) | MAVLink multi-drone framework — INS, A* pathfinding, Flask | Python, SQLite, Flask |
+| [ drone-can-network](https://github.com/ARYA-mgc/drone-can-network) | Dual-drone CAN communication framework for STM32 | C, STM32, CAN Bus |
+| [ CubeSat ACS](https://github.com/ARYA-mgc/cubsat_Simulation_with_HIL) | CubeSat attitude control — cascaded PID, HIL validation, SDR + NRF24L01+ telemetry | MATLAB · Python · STM32 |
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack:
 
 <div align="center">
 
@@ -117,7 +117,7 @@ open_to    : Open Source Collaboration & UAV Projects
 
 ---
 
-## 🌐 Connect
+##  Connect:
 
 <div align="center">
 
