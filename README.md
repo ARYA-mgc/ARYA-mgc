@@ -117,7 +117,7 @@ open_to    : Open Source Collaboration & UAV Projects
 
 ---
 
-##  Connect:
+##  Connect
 
 <div align="center">
 
