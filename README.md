@@ -7,7 +7,7 @@
 
 </div>
 
-## About Me
+## About Me:
 ```yaml
 name       : Arya MGC
 role       : Avionics & Guidance Control Engineer
