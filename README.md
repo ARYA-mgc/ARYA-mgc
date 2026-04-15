@@ -125,28 +125,25 @@ open_to    : Open Source Collaboration & UAV Projects
 [![Instagram](https://img.shields.io/badge/Instagram-arya__mgc__-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/arya_mgc_)
 
 </div>
-
 <div align="center">
-
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
-
+<img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="35" title="Fast Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" title="Laptop Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="35" title="Science Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/wineparrot.gif" width="35" title="Wine Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif" width="35" title="Hacker Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="35" title="Conga Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="35" title="Ultra Fast Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/shipitparrot.gif" width="35" title="Ship It Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" title="GitHub Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="35" title="Coffee Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/thumbsupparrot.gif" width="35" title="Thumbs Up Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="35" title="Spinning Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/autonomousparrot.gif" width="35" title="Autonomous Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="35" title="Deal With It Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/fiestaparrot.gif" width="35" title="Fiesta Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/birthdaypartyparrot.gif" width="35" title="Birthday Party Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/boomparrot.gif" width="35" title="Boom Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/headbangingparrot.gif" width="35" title="Head Banging Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/reversecongaparrot.gif" width="35" title="Reverse Conga Parrot">
+<img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="35" title="Party Parrot">
 </div>
