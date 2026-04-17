@@ -77,6 +77,15 @@ if __name__ == "__main__":
 </table>
 
 ---
+## Currently Working On:
+
+> ![Status](https://img.shields.io/badge/🛠_Building-GPS--Denied_INS_v2_%7C_9--State_EKF_on_RPi4-58A6FF?style=flat-square)
+> ![Status](https://img.shields.io/badge/📡_Integrating-MAVLink_Swarm_Framework_with_A*_Pathfinding-00b894?style=flat-square)
+> ![Status](https://img.shields.io/badge/🤝_Open_To-UAV_Collabs_&_Open_Source_Avionics-e17055?style=flat-square)
+
+🎓 ECE Student | 🛰️ Intern @ **[Agnikul Cosmos](https://agnikul.in/)** — working on **Navigation Systems (INS)**
+
+---
 
 ## Experience:
 
@@ -103,16 +112,6 @@ if __name__ == "__main__":
 | [ CubeSat ACS](https://github.com/ARYA-mgc/cubsat_Simulation_with_HIL) | CubeSat attitude control — cascaded PID, HIL validation, SDR + NRF24L01+ telemetry | MATLAB · Python · STM32 |
 
 ---
-## 🔧 Currently Working On:
-
-> ![Status](https://img.shields.io/badge/🛠_Building-GPS--Denied_INS_v2_%7C_9--State_EKF_on_RPi4-58A6FF?style=flat-square)
-> ![Status](https://img.shields.io/badge/📡_Integrating-MAVLink_Swarm_Framework_with_A*_Pathfinding-00b894?style=flat-square)
-> ![Status](https://img.shields.io/badge/🤝_Open_To-UAV_Collabs_&_Open_Source_Avionics-e17055?style=flat-square)
-
-🎓 ECE Student | 🛰️ Intern @ **[Agnikul Cosmos](https://agnikul.in/)** — working on **Navigation Systems (INS)**
-
----
-
 
 ## Tech Stack:
 
