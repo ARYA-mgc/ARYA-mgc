@@ -60,7 +60,7 @@ class AryaMGC:
     ]
 
     open_to     = "Collaborations · UAV Projects · Open Source"
-    motto       = "If it flies, I want to build it. 🚀"
+    motto       = "If it flies, I want to build it. "
 
     def hello(self):
         print(f"Hey! I'm {self.name} — {self.role}")
