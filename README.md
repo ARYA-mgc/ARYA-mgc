@@ -7,18 +7,74 @@
 
 </div>
 
+---
+
 ## About Me:
-```yaml
-name       : Arya MGC
-role       : Avionics & Guidance Control Engineer
-experience :
-  - Agnikul Cosmos        → Rocket Avionics Intern
-  - NLC India Limited     → Embedded Systems Intern
-currently  : GPS-Denied INS Navigation for UAVs
-college    : Chennai Institute of Technology
-passion    : Things that fly — Rockets & Drones
-open_to    : Open Source Collaboration & UAV Projects
+
+<table>
+<tr>
+<td width="42%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Coding GIF"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213760718-f95a72c2-5823-457a-ba3e-3fdbf2d12354.gif" width="340" alt="Rocket GIF"/>
+
+
+</td>
+<td width="58%" valign="top">
+
+
+```python
+class AryaMGC:
+
+    name        = "Arya MGC"
+    role        = "Avionics & Guidance Control Engineer"
+    location    = "Chennai, Tamil Nadu, India"
+    college     = "Chennai Institute of Technology"
+
+    experience  = [
+        "Agnikul Cosmos      →  Rocket Avionics Intern",
+        "NLC India Limited   →  Embedded Systems Intern",
+    ]
+
+    currently_building = [
+        "GPS-Denied INS Navigation for UAVs",
+        "9-State EKF on Raspberry Pi 4",
+        "MAVLink Multi-Drone Swarm Framework",
+    ]
+
+    interests   = [
+        "Rockets & UAV Systems",
+        "Guidance, Navigation & Control",
+        "Real-Time Embedded Systems",
+        "Open Source Avionics",
+    ]
+
+    skills_core = [
+        "ArduPilot / PX4  |  MAVLink 2.0",
+        "STM32 F4/H7      |  FreeRTOS",
+        "Extended Kalman Filter (EKF)",
+        "CAN Bus / DroneCAN / SPI / I2C",
+    ]
+
+    open_to     = "Collaborations · UAV Projects · Open Source"
+    motto       = "If it flies, I want to build it. 🚀"
+
+    def hello(self):
+        print(f"Hey! I'm {self.name} — {self.role}")
+        print(f"Based in {self.location}")
+        print(f"Motto: {self.motto}")
+
+if __name__ == "__main__":
+    me = AryaMGC()
+    me.hello()
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -47,6 +103,16 @@ open_to    : Open Source Collaboration & UAV Projects
 | [ CubeSat ACS](https://github.com/ARYA-mgc/cubsat_Simulation_with_HIL) | CubeSat attitude control — cascaded PID, HIL validation, SDR + NRF24L01+ telemetry | MATLAB · Python · STM32 |
 
 ---
+## 🔧 Currently Working On:
+
+> ![Status](https://img.shields.io/badge/🛠_Building-GPS--Denied_INS_v2_%7C_9--State_EKF_on_RPi4-58A6FF?style=flat-square)
+> ![Status](https://img.shields.io/badge/📡_Integrating-MAVLink_Swarm_Framework_with_A*_Pathfinding-00b894?style=flat-square)
+> ![Status](https://img.shields.io/badge/🤝_Open_To-UAV_Collabs_&_Open_Source_Avionics-e17055?style=flat-square)
+
+🎓 ECE Student | 🛰️ Intern @ **[Agnikul Cosmos](https://agnikul.in/)** — working on **Navigation Systems (INS)**
+
+---
+
 
 ## Tech Stack:
 
@@ -66,6 +132,8 @@ open_to    : Open Source Collaboration & UAV Projects
 ![ESP32](https://img.shields.io/badge/ESP32-S3-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC84B?style=for-the-badge&logoColor=white)
 ![Pixhawk](https://img.shields.io/badge/Pixhawk_4%2F6C-02569B?style=for-the-badge&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/NVIDIA_Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Jetson Orin](https://img.shields.io/badge/NVIDIA_Jetson_Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ###  Sensors & Avionics Modules 
 ![ICM-42688](https://img.shields.io/badge/ICM--42688P_IMU-1f4068?style=for-the-badge&logoColor=white)
