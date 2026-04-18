@@ -3,12 +3,9 @@
 # ARYA MGC
 ###  Avionics | Guidance & Control | UAV Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Avionics+Engineer;MAVLink+Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Avionics+Engineer;ECE+Student+%7C+2nd+Year;Intern+%40+Agnikul+Cosmos;MAVLink+Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
-
----
-
 ## About Me:
 
 <table>
