@@ -60,22 +60,14 @@ print(f'"{motto}"')
 ## Currently Working On:
 🎓 ECE Student | 🛰️ Intern @ **[Agnikul Cosmos](https://agnikul.in/)** — working on **Navigation Systems (INS)**
 ---
-
-## Experience:
-
-<table>
-<tr>
-<td width="50px" align="center">1.</td>
-<td><strong>Avionics / Guidance & Control Intern</strong><br><a href="https://agnikul.in">Agnikul Cosmos</a> — India's private rocket startup<br><sub>Working on navigation and INS systems for real rocket avionics.</sub></td>
-</tr>
-<tr>
-<td width="50px" align="center">2.</td>
-<td><strong>Embedded Systems Intern</strong><br><a href="https://www.nlcindia.in/website/en/corebusiness/mines.html">NLC India Limited <br>
-    <sub>Industrial embedded systems and automation.</sub></td>
-</tr>
-</table>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ARYA-mgc/ARYA-mgc/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ARYA-mgc/ARYA-mgc/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake"
+    src="https://raw.githubusercontent.com/ARYA-mgc/ARYA-mgc/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## Featured Projects:
 
