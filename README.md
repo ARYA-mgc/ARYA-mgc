@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Avionics+Engineer;ECE+Student+%7C+2nd+Year;Intern+%40+Agnikul+Cosmos;MAVLink+Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
-## About Me:
+ About Me:
 
 <table>
 <tr>
@@ -24,49 +24,32 @@
 
 
 ```python
-class AryaMGC:
+name     = "Arya MGC"
+role     = "Avionics & GNC Engineer"
+location = "Chennai, Tamil Nadu, India"
+college  = "Chennai Institute of Technology"
 
-    name        = "Arya MGC"
-    role        = "Avionics & Guidance Control Engineer"
-    location    = "Chennai, Tamil Nadu, India"
-    college     = "Chennai Institute of Technology"
+experience = {
+    "Agnikul Cosmos"   : "Rocket Avionics Intern",
+    "NLC India Limited": "Embedded Systems Intern",
+}
 
-    experience  = [
-        "Agnikul Cosmos      →  Rocket Avionics Intern",
-        "NLC India Limited   →  Embedded Systems Intern",
-    ]
+skills    = ["Python", "C", "C++", "MATLAB", "Lua", "ArduPilot", "MAVLink", "STM32", "EKF"]
+interests = ["Rockets", "UAVs", "GNC", "Embedded Systems", "Open Source Avionics"]
+motto     = "If it flies, I want to build it."
 
-    currently_building = [
-        "GPS-Denied INS Navigation for UAVs",
-        "9-State EKF on Raspberry Pi 4",
-        "MAVLink Multi-Drone Swarm Framework",
-    ]
-
-    interests   = [
-        "Rockets & UAV Systems",
-        "Guidance, Navigation & Control",
-        "Real-Time Embedded Systems",
-        "Open Source Avionics",
-    ]
-
-    skills_core = [
-        "ArduPilot / PX4  |  MAVLink 2.0",
-        "STM32 F4/H7      |  FreeRTOS",
-        "Extended Kalman Filter (EKF)",
-        "CAN Bus / DroneCAN / SPI / I2C",
-    ]
-
-    open_to     = "Collaborations · UAV Projects · Open Source"
-    motto       = "If it flies, I want to build it. "
-
-    def hello(self):
-        print(f"Hey! I'm {self.name} — {self.role}")
-        print(f"Based in {self.location}")
-        print(f"Motto: {self.motto}")
-
-if __name__ == "__main__":
-    me = AryaMGC()
-    me.hello()
+print(f"Hi, I'm {name}")
+print(f"I'm a {role} based in {location}")
+print(f"Studying at {college}")
+print()
+print("Experience:")
+for org, role in experience.items():
+    print(f"  - {org} → {role}")
+print()
+print(f"Skills   : {', '.join(skills)}")
+print(f"Interests: {', '.join(interests)}")
+print()
+print(f'"{motto}"')
 ```
 
 </td>
@@ -75,13 +58,7 @@ if __name__ == "__main__":
 
 ---
 ## Currently Working On:
-
-> ![Status](https://img.shields.io/badge/🛠_Building-GPS--Denied_INS_v2_%7C_9--State_EKF_on_RPi4-58A6FF?style=flat-square)
-> ![Status](https://img.shields.io/badge/📡_Integrating-MAVLink_Swarm_Framework_with_A*_Pathfinding-00b894?style=flat-square)
-> ![Status](https://img.shields.io/badge/🤝_Open_To-UAV_Collabs_&_Open_Source_Avionics-e17055?style=flat-square)
-
 🎓 ECE Student | 🛰️ Intern @ **[Agnikul Cosmos](https://agnikul.in/)** — working on **Navigation Systems (INS)**
-
 ---
 
 ## Experience:
@@ -89,11 +66,12 @@ if __name__ == "__main__":
 <table>
 <tr>
 <td width="50px" align="center">1.</td>
-<td><strong>Avionics / Guidance & Control Intern</strong><br><a href="https://agnikul.in">Agnikul Cosmos</a> — India's private rocket startup<br><sub>Worked on real rocket avionics systems. Bridging rocket-grade engineering into UAV open source.</sub></td>
+<td><strong>Avionics / Guidance & Control Intern</strong><br><a href="https://agnikul.in">Agnikul Cosmos</a> — India's private rocket startup<br><sub>Working on navigation and INS systems for real rocket avionics.</sub></td>
 </tr>
 <tr>
 <td width="50px" align="center">2.</td>
-<td><strong>Embedded Systems Intern</strong><br>NLC India Limited<br><sub>Industrial embedded systems and automation.</sub></td>
+<td><strong>Embedded Systems Intern</strong><br><a href="https://www.nlcindia.in/website/en/corebusiness/mines.html">NLC India Limited <br>
+    <sub>Industrial embedded systems and automation.</sub></td>
 </tr>
 </table>
 
@@ -103,10 +81,10 @@ if __name__ == "__main__":
 
 | Project | Description | Tech |
 |---|---|---|
-| [ins-drone-pixhawk](https://github.com/ARYA-mgc/ins-drone-pixhawk) | Real-time GPS-denied INS for UAVs — 9-state EKF on RPi4 | Python, MAVLink, ArduPilot |
+| [FrSkyTelemetryWidget](https://github.com/ARYA-mgc/FrSkyTelemetryWidget-by-ARYA) | Real-time GPS-denied INS for UAVs — 9-state EKF on RPi4 | Python, MAVLink, ArduPilot |
+| [ CubeSat ACS](https://github.com/ARYA-mgc/cubsat_Simulation_with_HIL) | CubeSat attitude control — cascaded PID, HIL validation, SDR + NRF24L01+ telemetry | MATLAB · Python · STM32 |
 | [Swayam](https://github.com/ARYA-mgc/swayam_drone_communication-) | MAVLink multi-drone framework — INS, A* pathfinding, Flask | Python, SQLite, Flask |
 | [ drone-can-network](https://github.com/ARYA-mgc/drone-can-network) | Dual-drone CAN communication framework for STM32 | C, STM32, CAN Bus |
-| [ CubeSat ACS](https://github.com/ARYA-mgc/cubsat_Simulation_with_HIL) | CubeSat attitude control — cascaded PID, HIL validation, SDR + NRF24L01+ telemetry | MATLAB · Python · STM32 |
 
 ---
 
@@ -119,6 +97,7 @@ if __name__ == "__main__":
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Embedded & Hardware 
