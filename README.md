@@ -60,15 +60,6 @@ print(f'"{motto}"')
 ## Currently Working On:
 🎓 ECE Student | 🛰️ Intern @ **[Agnikul Cosmos](https://agnikul.in/)** — working on **Navigation Systems (INS)**
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ARYA-mgc/ARYA-mgc/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ARYA-mgc/ARYA-mgc/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake"
-    src="https://raw.githubusercontent.com/ARYA-mgc/ARYA-mgc/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ## Featured Projects:
 
 | Project | Description | Tech |
@@ -136,25 +127,19 @@ print(f'"{motto}"')
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-###  Protocols & Interfaces 
 
-**Flight Protocols:** &nbsp; MAVLink 2.0 &nbsp;|&nbsp; DroneCAN (UAVCAN v1) &nbsp;|&nbsp; UAVCAN v0 &nbsp;|&nbsp; MSP (MultiWii)
-
-**Bus / Fieldbus:** &nbsp; CAN Bus 2.0B &nbsp;|&nbsp; ISO 11898 &nbsp;|&nbsp; SPI (up to 20MHz) &nbsp;|&nbsp; I2C (FM+) &nbsp;|&nbsp; UART / USART &nbsp;|&nbsp; RS-232 &nbsp;|&nbsp; RS-485
-
-**RC / Actuator:** &nbsp; SBUS &nbsp;|&nbsp; CRSF (Crossfire) &nbsp;|&nbsp; DSHOT600 &nbsp;|&nbsp; PWM &nbsp;|&nbsp; PPM &nbsp;|&nbsp; FHSS
-
-**Wireless / RF:** &nbsp; NRF24L01+ &nbsp;|&nbsp; LoRa (SX1276) &nbsp;|&nbsp; SDR (RTL-SDR) &nbsp;|&nbsp; 915MHz Telemetry &nbsp;|&nbsp; Wi-Fi (ESP-IDF)
-
-**Networking:** &nbsp; MQTT &nbsp;|&nbsp; TCP/IP &nbsp;|&nbsp; UDP &nbsp;|&nbsp; WebSocket &nbsp;|&nbsp; REST API
-
-</div>
-
----
-
-##  Connect:
+##  Connection:
 
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ARYA-mgc/ARYA-mgc/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ARYA-mgc/ARYA-mgc/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake"
+    src="https://raw.githubusercontent.com/ARYA-mgc/ARYA-mgc/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ARYA--mgc-181717?style=for-the-badge&logo=github)](https://github.com/ARYA-mgc)
 [![Instagram](https://img.shields.io/badge/Instagram-arya__mgc__-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/arya_mgc_)
