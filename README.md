@@ -15,10 +15,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Coding GIF"/>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/213760718-f95a72c2-5823-457a-ba3e-3fdbf2d12354.gif" width="340" alt="Rocket GIF"/>
-
-
 </td>
 <td width="58%" valign="top">
 
@@ -58,7 +54,7 @@ print(f'"{motto}"')
 
 ---
 ## Currently Working On:
-🎓 ECE Student | 🛰️ Intern @ **[Agnikul Cosmos](https://agnikul.in/)** — working on **Navigation Systems (INS)**
+| 🛰️ Intern @ **[Agnikul Cosmos](https://agnikul.in/)** — working on **Navigation Systems (INS)**
 ---
 ## Featured Projects:
 
