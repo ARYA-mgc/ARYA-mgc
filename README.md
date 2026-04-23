@@ -121,6 +121,10 @@ print(f'"{motto}"')
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<div >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYA-mgc&layout=donut&theme=github_dark&langs_count=5&hide=Lua" height="165" />
+</div>
+
 ##  Connection:
 
 <div align="center">
