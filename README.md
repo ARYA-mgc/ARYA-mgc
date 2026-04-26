@@ -61,9 +61,9 @@ print(f'"{motto}"')
 | Project | Description | Tech |
 |---|---|---|
 | [FrSkyTelemetryWidget](https://github.com/ARYA-mgc/FrSkyTelemetryWidget-by-ARYA) |A LUA telemetry script and widget for Horus X10(S), X12, Taranis X9D+, X9E, QX7 and X-Lite radios using ArduPilot FrSky passthrough protocol | Python, MAVLink, ArduPilot |
-| [ CubeSat ACS](https://github.com/ARYA-mgc/cubsat_Simulation_with_HIL) | CubeSat attitude control — cascaded PID, HIL validation, SDR + NRF24L01+ telemetry | MATLAB · Python · STM32 |
-| [Swayam](https://github.com/ARYA-mgc/swayam_drone_communication-) | MAVLink multi-drone framework — INS, A* pathfinding, Flask | Python, SQLite, Flask |
-| [ drone-can-network](https://github.com/ARYA-mgc/drone-can-network) | Dual-drone CAN communication framework for STM32 | C, STM32, CAN Bus |
+| [ Swayam_FleetS](https://github.com/ARYA-mgc/Swayam_Fleet) | MAVLink multi-drone framework — INS, A* pathfinding, Flask | Python, SQLite, Flask |
+| [SDR-Hardware-Benchmark](https://github.com/DynamiX-Labs/SDR-Hardware-Benchmark) | Open-source satellite SDR toolkit — CubeSat telemetry decoding (AX.25/CCSDS), Doppler auto-tracking, hardware benchmarking across RTL-SDR, HackRF, PlutoSDR & USRP| Python, GNU Radio, Docker |
+| [NavCore-Pixhawk](https://github.com/ARYA-mgc/NavCore-Pixhawk) | Real-time GPS-denied INS for UAVs — 9-state EKF on RPi4 via MAVLink, injecting position into ArduPilot EKF3| Python, MAVLink, ArduPilot |
 
 ---
 
