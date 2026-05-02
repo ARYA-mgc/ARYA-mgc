@@ -5,10 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Avionics+Engineer;ECE+Student+%7C+2nd+Year;Intern+%40+Agnikul+Cosmos;MAVLink+Open+Source+Contributor)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ARYA-mgc&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
-
 </div>
-
 ## About Me
 
 <table>
@@ -64,19 +61,18 @@ print(f'"{motto}"')
 > 🛰️ Intern @ **[Agnikul Cosmos](https://agnikul.in/)** — working on **Navigation Systems (INS)**
 
 ---
-
-## Featured Projects
+## Featured Projects:
 
 | Project | Description | Tech |
 |---|---|---|
-| [FrSkyTelemetryWidget](https://github.com/ARYA-mgc/FrSkyTelemetryWidget-by-ARYA) | A LUA telemetry script and widget for Horus X10(S), X12, Taranis X9D+, X9E, QX7 and X-Lite radios using ArduPilot FrSky passthrough protocol | Python, MAVLink, ArduPilot |
+| [FrSkyTelemetryWidget](https://github.com/ARYA-mgc/FrSkyTelemetryWidget-by-ARYA) |A LUA telemetry script and widget for Horus X10(S), X12, Taranis X9D+, X9E, QX7 and X-Lite radios using ArduPilot FrSky passthrough protocol | Python, MAVLink, ArduPilot |
 | [Swayam_Fleet](https://github.com/ARYA-mgc/Swayam_Fleet) | MAVLink multi-drone framework — INS, A* pathfinding, Flask | Python, SQLite, Flask |
-| [SDR-Hardware-Benchmark](https://github.com/DynamiX-Labs/SDR-Hardware-Benchmark) | Open-source satellite SDR toolkit — CubeSat telemetry decoding (AX.25/CCSDS), Doppler auto-tracking, hardware benchmarking across RTL-SDR, HackRF, PlutoSDR & USRP | Python, GNU Radio, Docker |
-| [NavCore-Pixhawk](https://github.com/ARYA-mgc/NavCore-Pixhawk) | Real-time GPS-denied INS for UAVs — 9-state EKF on RPi4 via MAVLink, injecting position into ArduPilot EKF3 | Python, MAVLink, ArduPilot |
+| [SDR-Hardware-Benchmark](https://github.com/DynamiX-Labs/SDR-Hardware-Benchmark) | Open-source satellite SDR toolkit — CubeSat telemetry decoding (AX.25/CCSDS), Doppler auto-tracking, hardware benchmarking across RTL-SDR, HackRF, PlutoSDR & USRP| Python, GNU Radio, Docker |
+| [NavCore-Pixhawk](https://github.com/ARYA-mgc/NavCore-Pixhawk) | Real-time GPS-denied INS for UAVs — 9-state EKF on RPi4 via MAVLink, injecting position into ArduPilot EKF3| Python, MAVLink, ArduPilot |
 
 ---
 
-## Tech Stack
+## Tech Stack:
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -86,7 +82,7 @@ print(f'"{motto}"')
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Embedded & Hardware
+###  Embedded & Hardware
 ![STM32F4](https://img.shields.io/badge/STM32F4-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![STM32H7](https://img.shields.io/badge/STM32H7-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi 4](https://img.shields.io/badge/Raspberry_Pi_4-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
@@ -96,7 +92,7 @@ print(f'"{motto}"')
 ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Jetson Orin](https://img.shields.io/badge/Jetson_Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### Sensors & Avionics
+###  Sensors & Avionics
 ![ICM-42688P](https://img.shields.io/badge/ICM--42688P_IMU-1f4068?style=for-the-badge&logoColor=white)
 ![ADIS16470](https://img.shields.io/badge/ADIS16470_Tactical_IMU-d63031?style=for-the-badge&logoColor=white)
 ![MS5611](https://img.shields.io/badge/MS5611_Barometer-2d3436?style=for-the-badge&logoColor=white)
@@ -106,7 +102,7 @@ print(f'"{motto}"')
 ![NRF24L01+](https://img.shields.io/badge/NRF24L01%2B_RF-e17055?style=for-the-badge&logoColor=white)
 ![ST-Link V3](https://img.shields.io/badge/ST--Link_V3-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
-### Flight & GNC Software
+###  Flight & GNC Software
 ![ArduPilot](https://img.shields.io/badge/ArduPilot-02569B?style=for-the-badge&logoColor=white)
 ![MAVLink](https://img.shields.io/badge/MAVLink_2.0-1f4068?style=for-the-badge&logoColor=white)
 ![DroneKit](https://img.shields.io/badge/DroneKit--Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -114,7 +110,7 @@ print(f'"{motto}"')
 ![Mission Planner](https://img.shields.io/badge/Mission_Planner-1a3a25?style=for-the-badge&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo_Sim-FF6600?style=for-the-badge&logoColor=white)
 
-### OS & DevTools
+###  OS & DevTools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -123,29 +119,18 @@ print(f'"{motto}"')
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Data & Scientific Computing
+###  Data & Scientific Computing
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
-
-## GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARYA-mgc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYA-mgc&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=Lua" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYA-mgc&layout=donut&theme=github_dark&langs_count=5&hide=Lua" height="165" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ARYA-mgc&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub Streak" />
-</div>
-
----
-
-## Connect
+##  Connection:
 
 <div align="center">
 
@@ -153,7 +138,6 @@ print(f'"{motto}"')
 [![Instagram](https://img.shields.io/badge/Instagram-arya__mgc__-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/arya_mgc_)
 
 </div>
-
 <div align="center">
 <img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="35" title="Fast Parrot">
 <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" title="Laptop Parrot">
